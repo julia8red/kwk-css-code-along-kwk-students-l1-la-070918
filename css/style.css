@@ -1,1 +1,19 @@
-/* add CSS class and element and selectors here */
+body {
+      background-color: purple;
+      font-size: 150%;
+      text-align: center
+    }
+    
+    h1 {
+      color: black;
+    }
+    
+    h2 {
+      color: red;
+    }
+    
+    .info-section {
+      font-size:150%;
+      color:lightblue;
+      font-family: 'Gaegu', cursive;
+    }
